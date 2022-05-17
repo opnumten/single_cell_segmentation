@@ -4,7 +4,7 @@ https://www.sciencedirect.com/science/article/pii/S0010482519301143
 The classification FCN is modified based on the code from  https://github.com/imlab-uiip/keras-segnet
 The faster R-CNN is modified based on the code from  https://github.com/yhenon/keras-frcnn
 
-weights file can be found in https://drive.google.com/drive/folders/1RBuebNQGxEQ-JSrOON3-R7Y8XOB9pftk?usp=sharing
+weights file and training data can be found in https://drive.google.com/drive/folders/1RBuebNQGxEQ-JSrOON3-R7Y8XOB9pftk?usp=sharing
 
 ================================================================================
 # single_cell_segmentation
